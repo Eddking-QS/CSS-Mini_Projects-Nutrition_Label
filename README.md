@@ -13,7 +13,7 @@ A simple project to practice typography. This project is a simple webpage with a
 
 ## Live Demo
 
-[Nutrition Label](https://eddking-qs.github.io/CSS-Mini_Projects-Nutrition_Label/)
+[Nutrition Label](https://quintin-dev.github.io/CSS-Mini_Projects-Nutrition_Label/)
 
 ## Disclaimer
 
